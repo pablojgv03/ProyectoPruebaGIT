@@ -1,0 +1,4 @@
+[A[B[A[C[C[C[C[C[C[C[C[C[C[C[3~[3~[3~[C[C[C[C[C[C[C[indice.txt
+capitulo 1: Introducción a Git 
+capitulo 2: Flujo de trabajo basico 
+capitulo 3; Repositorios remotos
